@@ -1,0 +1,10 @@
+.panda-bg-primary{
+    background-color: #fceae8;
+}
+
+.panda-button{
+    background-color: #ff4f95;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
